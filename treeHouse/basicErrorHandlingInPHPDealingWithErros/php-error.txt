@@ -1,0 +1,5 @@
+[14-Dec-2017 11:26:21 UTC] PHP Notice:  Undefined variable: errors in /home/treehouse/workspace/logging.php on line 9
+[14-Dec-2017 11:26:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/treehouse/workspace/logging.php on line 9
+[14-Dec-2017 11:26:41 UTC] PHP Notice:  Undefined variable: errors in /home/treehouse/workspace/logging.php on line 9
+[14-Dec-2017 11:26:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/treehouse/workspace/logging.php on line 9
+[14-Dec-2017 11:34:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/treehouse/workspace/logging.php on line 10
