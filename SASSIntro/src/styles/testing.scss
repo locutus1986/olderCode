@@ -1,0 +1,7 @@
+@import "./src/styles/app.scss";
+@import "./src/styles/mixin.scss";
+
+h1{
+  border: 1px $primary-color solid;
+  @include border-radius(10px);
+}
